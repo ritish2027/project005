@@ -1,0 +1,72 @@
+body{
+    background-image: url(.//pr5\ bg.png);
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(.//pr5\ bg.png)
+}
+.container li{
+    display: inline-block;
+    background: #000;
+}
+.list-item{
+display:inline-block;
+    font-size: x-large;
+    
+    
+    font-family: sans-serif;
+    font-weight: bold;
+    margin:15px 60px ;
+    color: white;
+}
+.list{
+     /* position: absolute; */
+   background-color: black;
+
+    height: 80px;
+    
+    margin-top: -66px;
+    margin-left: -50px ;
+    margin-right: -50px;
+    padding-left: 220px;
+    
+}
+.button-small{
+    position: absolute;
+    top: 15px;
+    right: 50px;
+    font-size: 25px;
+    background-color:#E03B8B ;
+    color: white;
+    border-radius: 10px;
+}
+.hero-heading{
+    font-size: 110px;
+    color: wheat;
+}
+.hero-description{
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    bottom: 100px;
+    margin-left: 190px;
+
+}
+.button-large{
+    position: absolute;
+    bottom: 90px;
+    left: 600px;
+    background-color: #E03B8B;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+}
+#ap{
+    position: absolute;
+    top: 16px;
+    left: 180px;
+    font-weight: bold;
+    font-size: 30px;
+    background: #000;
+    color: white;
+    text-align: center;
+    border: 0px;
+}
